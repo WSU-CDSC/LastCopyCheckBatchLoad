@@ -1,4 +1,4 @@
-#Set Local Variables
+#Set Variables for Your Institution
 $BarcodeListFile = "Text file of barcodes for upload"
 $MMSIdListFile = "Location to store CSV of MMS IDs"
 $OutputFile = "Location to store final CSV of output"
