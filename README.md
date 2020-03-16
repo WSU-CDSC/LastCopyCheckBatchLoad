@@ -1,4 +1,4 @@
-# LastCopyCheckBatchLoad
+# Last Copy Check in Batch Load
 
 Libraries frequently need to check to see if their item is the last copy within a consortium. This code uses Ex Libris APIs to check PNX records to see how many institutions own a certain item. The code is currently written in PowerShell.
 
